@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "803201739040",
+    "firebase_url": "https://bomber-puzzle.firebaseio.com",
+    "project_id": "bomber-puzzle",
+    "storage_bucket": "bomber-puzzle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803201739040:android:537628456b359ec2",
+        "android_client_info": {
+          "package_name": "com.MenTech.BombPuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803201739040-q5tvh5638iustgmdkdmv9c9pf5bug8ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvE0Dg77nD2-Asv-1o9wONAdkjOkCsask"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803201739040-q5tvh5638iustgmdkdmv9c9pf5bug8ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803201739040:android:f9939297ed0f2a8b",
+        "android_client_info": {
+          "package_name": "com.MenTech.BomberPuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803201739040-hmhdjv14lb9iuvl6utd30sg32h6dagnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MenTech.BomberPuzzle",
+            "certificate_hash": "39aeaee9fcf67ef9f89356521073e529cf820522"
+          }
+        },
+        {
+          "client_id": "803201739040-q5tvh5638iustgmdkdmv9c9pf5bug8ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvE0Dg77nD2-Asv-1o9wONAdkjOkCsask"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803201739040-q5tvh5638iustgmdkdmv9c9pf5bug8ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8254851646373657~3388528597"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803201739040:android:d40e272908cedcd0",
+        "android_client_info": {
+          "package_name": "com.example.architecht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803201739040-4405bhedcb7vp3avitup1meqh1jq92go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.architecht",
+            "certificate_hash": "ff886c543fa5167a0edd47abd52f85509a8744bb"
+          }
+        },
+        {
+          "client_id": "803201739040-q5tvh5638iustgmdkdmv9c9pf5bug8ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvE0Dg77nD2-Asv-1o9wONAdkjOkCsask"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803201739040-q5tvh5638iustgmdkdmv9c9pf5bug8ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
